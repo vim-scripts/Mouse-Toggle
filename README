@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=820
+
+Toggles mouse between default setting (set it as mouse_default), and unset.  Simple concept, but pretty effective.  I use it to swap between internal Vim mouse handling for window resizing etc. and X window mouse handling for clipboard operations from/to xterm.  The basic script can, of course, be modified to toggle any setting (e.g. autoindent/no autoindent), or even rotate between a group of settings (e.g. various cinoptions).  Depending on your <Leader> setting, use it as follows: <Leader>m to toggle (default: backslash-m).
